@@ -1,0 +1,19 @@
+{
+  "items":[
+    {
+      "name":"Hammer",
+      "type":"Tool",
+      "id":"1"
+    },
+    {
+      "name":"5m Wire",
+      "type":"Electrical",
+      "id":"2"
+    },
+    {
+      "name":"Fence",
+      "type":"Hardware",
+      "id":"3"
+    }
+  ]
+}
